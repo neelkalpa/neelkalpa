@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on AI / ML Projects<br>🌱 I’m currently learning Web Development
+🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on AI / ML Projects
 
 
 ## 🌐 Socials:
